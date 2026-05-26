@@ -1,0 +1,68 @@
+<svg aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" height="1200" width="800" shape-rendering="geometricPrecision">
+  <title>Highly Detailed Full-Body Andrew Johnson SVG</title>
+  <desc id="desc">Vector illustration of Andrew Johnson, 17th President of the United States — likeness informed by historical photographs and portraits</desc>
+  <metadata>Mesh-ready export: closed opaque paths, connected figure for PNG and image-to-3D.</metadata>
+
+  <g id="background">
+    <rect fill="#3cb868" height="1200" width="800"/>
+  </g>
+  <g id="figure" fill-rule="nonzero">
+
+  <path fill="#1c1410" d="M348 944 L332 944 L326 1062 L374 1062 L368 944 Z"/>
+  <path fill="#1c1410" d="M452 944 L468 944 L474 1062 L426 1062 L432 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#1a2333" d="M378 684 L318 684 L338 862 L348 944 L368 944 L371 862 Z"/>
+  <path fill="#1a2333" d="M422 684 L482 684 L461 862 L452 944 L432 944 L428 862 Z"/>
+
+  <path fill="#1a2333" d="M376 684 L424 684 L482 686 L318 686 Z"/>
+
+  <path fill="#f5f2ea" d="M378 684 L422 684 Q474 620 480 528 Q400 512 320 528 Q326 620 378 684 Z"/>
+
+  <path fill="#f5f2ea" d="M362 472 L438 472 L434 516 Q400 526 366 516 Z"/>
+  <path fill="#f5f2ea" d="M375 516 Q400 510 425 516 L420 684 Q400 690 380 684 Z"/>
+
+  <path fill="#3a4048" d="M358 510 Q400 500 442 510 Q448 568 400 576 Q352 568 358 510 Z"/>
+  <path fill="#373c44" d="M364 520 L400 530 L436 520 L434 562 Q400 570 366 562 Z"/>
+
+  <path fill="#f5f2ea" d="M276 528 Q254 660 266 802 L320 802 Q308 660 326 528 Z"/>
+  <path fill="#f5f2ea" d="M524 528 Q546 650 532 792 L480 792 Q492 650 474 528 Z"/>
+  <path fill="#dcc8a8" d="M312 768 L206 785 L212 822 L316 808 Z"/>
+  <path fill="#dcc8a8" d="M488 768 L594 785 L588 822 L484 808 Z"/>
+  <ellipse transform="rotate(-35 234 808)" fill="#dcc8a8" ry="21" rx="27" cy="808" cx="234"/>
+  <ellipse transform="rotate(45 566 798)" fill="#dcc8a8" ry="20" rx="26" cy="798" cx="566"/>
+
+  <path fill="#1a2333" d="M326 528 Q318 658 320 684 L378 684 L422 684 L480 684 Q474 658 474 528 Z"/>
+  <path fill="#1a2333" d="M292 518 Q262 658 276 786 Q320 872 344 682 Q400 536 456 682 Q480 872 524 786 Q538 658 508 518 Z"/>
+  <path fill="#2a3040" d="M330 546 L400 564 L470 546 L468 552 L400 572 L332 552 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#1a1a1a" d="M372 476 Q386 464 400 476 Q414 464 428 476 Q414 488 400 482 Q386 488 372 476 Z"/>
+
+
+
+  <ellipse fill="#e8d4b8" ry="80" rx="62" cy="358" cx="400"/>
+  
+  <path fill="#e8d4b8" d="M377 420 Q375 440 388 460 Q400 466 412 460 Q425 440 423 420 Q400 417 377 420 Z"/>
+  <path fill="#faf8f4" d="M373 458 Q400 466 427 458 L425 464 Q400 470 375 464 Z"/>
+  
+  <path fill="#4a4038" d="M330 399 Q400 417 470 399 L468 427 Q400 437 332 427 Z"/>
+  <ellipse fill="#e8d4b8" ry="17" rx="44" cy="411" cx="400"/>
+  
+  <path fill="#4a4038" d="M338 300 Q300 320 298 370 Q315 392 355 390 Z"/>
+  <path fill="#4a4038" d="M462 300 Q500 320 502 370 Q485 392 445 390 Z"/>
+  <ellipse fill="#4a4038" ry="16" rx="68" cy="272" cx="400"/>
+  
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M350 318 Q378 308 395 322 Q392 328 370 326 Q352 324 350 318 Z"/>
+  <path fill="#2c2c2c" d="M405 322 Q422 308 450 318 Q448 324 426 326 Q408 328 405 322 Z"/>
+  <path fill="#d0b898" d="M398 355 Q400 385 396 392 Q392 382 394 362 Q396 355 398 355 Z"/>
+  <path fill="#b89070" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+  
+  
+
+  </g>
+</svg>

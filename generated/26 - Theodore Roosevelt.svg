@@ -1,0 +1,76 @@
+<svg aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" height="1200" width="800" shape-rendering="geometricPrecision">
+  <title>Highly Detailed Full-Body Theodore Roosevelt SVG</title>
+  <desc id="desc">Vector illustration of Theodore Roosevelt, 26th President of the United States — likeness informed by historical photographs and portraits</desc>
+  <metadata>Mesh-ready export: closed opaque paths, connected figure for PNG and image-to-3D.</metadata>
+
+  <g id="background">
+    <rect fill="#3cb868" height="1200" width="800"/>
+  </g>
+  <g id="figure" fill-rule="nonzero">
+
+  <path fill="#1c1410" d="M345 944 L329 944 L323 1062 L377 1062 L371 944 Z"/>
+  <path fill="#1c1410" d="M455 944 L471 944 L477 1062 L423 1062 L429 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#352418" d="M381 684 L312 684 L334 862 L345 944 L371 944 L374 862 Z"/>
+  <path fill="#352418" d="M419 684 L488 684 L465 862 L455 944 L429 944 L425 862 Z"/>
+
+  <path fill="#352418" d="M379 684 L421 684 L488 686 L312 686 Z"/>
+
+  <path fill="#f5f2ea" d="M381 684 L419 684 Q483 620 489 528 Q400 512 311 528 Q317 620 381 684 Z"/>
+
+  <path fill="#f5f2ea" d="M359 472 L441 472 L434 516 Q400 526 363 516 Z"/>
+  <path fill="#f5f2ea" d="M372 516 Q400 510 428 516 L417 684 Q400 690 383 684 Z"/>
+
+  <path fill="#d8d0c0" d="M354 510 Q400 500 446 510 Q448 568 400 576 Q352 568 354 510 Z"/>
+  <path fill="#cdc5b6" d="M360 520 L400 530 L440 520 L434 562 Q400 570 366 562 Z"/>
+  <circle fill="#888" r="4" cy="560" cx="400"/>
+  <circle fill="#888" r="4" cy="598" cx="400"/>
+
+  <path fill="#f5f2ea" d="M267 528 Q245 660 257 802 L311 802 Q299 660 317 528 Z"/>
+  <path fill="#f5f2ea" d="M533 528 Q555 650 541 792 L489 792 Q501 650 483 528 Z"/>
+  <path fill="#f0d8b8" d="M303 768 L206 785 L212 822 L307 808 Z"/>
+  <path fill="#f0d8b8" d="M497 768 L594 785 L588 822 L493 808 Z"/>
+  <ellipse transform="rotate(-35 234 808)" fill="#f0d8b8" ry="21" rx="27" cy="808" cx="234"/>
+  <ellipse transform="rotate(45 566 798)" fill="#f0d8b8" ry="20" rx="26" cy="798" cx="566"/>
+
+  <path fill="#4a3528" d="M317 524 Q312 638 314 684 L381 684 L419 684 L486 684 Q483 638 483 524 Z"/>
+  <path fill="#4a3528" d="M282 506 Q258 638 288 772 Q330 858 332 700 Q400 566 468 700 Q470 858 530 772 Q542 638 518 506 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#1a1a1a" d="M372 476 Q386 464 400 476 Q414 464 428 476 Q414 488 400 482 Q386 488 372 476 Z"/>
+
+
+
+  <ellipse fill="#f8e4c8" ry="74" rx="70" cy="362" cx="400"/>
+  
+  <path fill="#f8e4c8" d="M374 418 Q372 439 388 460 Q400 466 412 460 Q428 439 426 418 Q400 415 374 418 Z"/>
+  <path fill="#faf8f4" d="M370 458 Q400 466 430 458 L428 464 Q400 470 372 464 Z"/>
+  
+  <path fill="#4a3828" d="M330 400 Q400 418 470 400 L468 428 Q400 438 332 428 Z"/>
+  <ellipse fill="#f8e4c8" ry="16" rx="40" cy="412" cx="400"/>
+  
+  <path fill="#4a3828" d="M330 292 Q285 310 280 360 Q295 388 345 392 Z"/>
+  <path fill="#4a3828" d="M470 292 Q515 310 520 360 Q505 388 455 392 Z"/>
+  <ellipse fill="#4a3828" ry="28" rx="84" cy="252" cx="400"/>
+  
+  <path fill="#4a3828" d="M362 398 Q400 412 438 398 Q435 405 400 410 Q365 405 362 398 Z"/>
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M355 325 Q375 315 390 320 Q388 326 368 324 Q356 326 355 325 Z"/>
+  <path fill="#2c2c2c" d="M410 320 Q425 315 445 325 Q443 331 423 328 Q412 326 410 320 Z"/>
+  <path fill="#e8c8a8" d="M400 355 Q398 385 395 390 Q397 372 399 358 Q400 355 400 355 Z"/>
+  <path fill="#c88c70" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+  
+  
+  <ellipse fill="#222" ry="16" rx="20" cy="346" cx="372"/>
+  <ellipse fill="#88b0c8" ry="11" rx="15" cy="346" cx="372"/>
+  <ellipse fill="#222" ry="16" rx="20" cy="346" cx="428"/>
+  <ellipse fill="#88b0c8" ry="11" rx="15" cy="346" cx="428"/>
+  <path fill="#222" d="M390 346 Q400 338 410 346 L408 350 Q400 344 392 350 Z"/>
+  <path fill="#222" d="M398 328 L402 328 L402 338 L398 338 Z"/>
+
+  </g>
+</svg>

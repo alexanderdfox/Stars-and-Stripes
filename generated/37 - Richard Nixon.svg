@@ -1,0 +1,67 @@
+<svg aria-labelledby="title desc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" height="1200" width="800" shape-rendering="geometricPrecision">
+  <title>Highly Detailed Full-Body Richard Nixon SVG</title>
+  <desc id="desc">Vector illustration of Richard Nixon, 37th President of the United States — likeness informed by historical photographs and portraits</desc>
+  <metadata>Mesh-ready export: closed opaque paths, connected figure for PNG and image-to-3D.</metadata>
+
+  <g id="background">
+    <rect fill="#3cb868" height="1200" width="800"/>
+  </g>
+  <g id="figure" fill-rule="nonzero">
+
+  <path fill="#1c1410" d="M348 944 L332 944 L326 1062 L374 1062 L368 944 Z"/>
+  <path fill="#1c1410" d="M452 944 L468 944 L474 1062 L426 1062 L432 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#1a2028" d="M378 684 L318 684 L338 862 L348 944 L368 944 L371 862 Z"/>
+  <path fill="#1a2028" d="M422 684 L482 684 L461 862 L452 944 L432 944 L428 862 Z"/>
+
+  <path fill="#1a2028" d="M376 684 L424 684 L482 686 L318 686 Z"/>
+
+  <path fill="#f5f2ea" d="M378 684 L422 684 Q474 620 480 528 Q400 512 320 528 Q326 620 378 684 Z"/>
+
+  <path fill="#f5f2ea" d="M362 472 L438 472 L434 514 Q400 524 366 514 Z"/>
+  <path fill="#f5f2ea" d="M372 514 Q400 508 428 514 L420 684 Q400 692 380 684 Z"/>
+
+  <path fill="#2c3444" d="M276 528 Q258 638 268 778 L318 778 Q306 638 326 528 Z"/>
+  <path fill="#2c3444" d="M524 528 Q542 638 532 778 L482 778 Q494 638 474 528 Z"/>
+  <path fill="#f5f2ea" d="M270 668 Q266 728 268 798 L314 798 Q310 728 316 668 Z"/>
+  <path fill="#f5f2ea" d="M530 668 Q534 728 532 798 L486 798 Q490 728 484 668 Z"/>
+  <path fill="#f0d8b8" d="M312 768 L207 785 L213 822 L316 808 Z"/>
+  <path fill="#f0d8b8" d="M488 768 L593 785 L587 822 L484 808 Z"/>
+  <ellipse transform="rotate(-35 235 808)" fill="#f0d8b8" ry="21" rx="27" cy="808" cx="235"/>
+  <ellipse transform="rotate(45 565 798)" fill="#f0d8b8" ry="20" rx="26" cy="798" cx="565"/>
+
+  <path fill="#2c3444" d="M326 528 Q318 632 318 684 L378 684 L422 684 L482 684 Q474 632 474 528 Z"/>
+  <path fill="#2c3444" d="M304 502 Q280 632 292 768 Q334 852 350 696 Q400 566 450 696 Q466 852 508 768 Q520 632 496 502 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#8b2020" d="M388 498 Q400 512 412 498 L409 504 Q400 514 391 504 Z"/>
+  <path fill="#8b2020" d="M384 502 Q400 686 400 750 Q400 686 416 502 Z"/>
+
+
+
+  <ellipse fill="#f8e4c8" ry="82" rx="64" cy="358" cx="400"/>
+  
+  <path fill="#f8e4c8" d="M376 421 Q374 441 388 462 Q400 468 412 462 Q426 441 424 421 Q400 418 376 421 Z"/>
+  <path fill="#faf8f4" d="M372 460 Q400 466 428 460 L426 466 Q400 470 374 466 Z"/>
+  
+  <path fill="#2a2018" d="M330 400 Q400 418 470 400 L468 428 Q400 438 332 428 Z"/>
+  <ellipse fill="#f8e4c8" ry="18" rx="45" cy="412" cx="400"/>
+  
+  <path fill="#2a2018" d="M338 300 Q300 320 298 370 Q315 392 355 390 Z"/>
+  <path fill="#2a2018" d="M462 300 Q500 320 502 370 Q485 392 445 390 Z"/>
+  <ellipse fill="#2a2018" ry="16" rx="68" cy="272" cx="400"/>
+  
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M350 318 Q378 308 395 322 Q392 328 370 326 Q352 324 350 318 Z"/>
+  <path fill="#2c2c2c" d="M405 322 Q422 308 450 318 Q448 324 426 326 Q408 328 405 322 Z"/>
+  <path fill="#e8c8a8" d="M400 350 Q395 382 392 398 Q398 394 402 368 Q401 358 400 350 Z"/>
+  <path fill="#c88c70" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+  
+  
+
+  </g>
+</svg>
