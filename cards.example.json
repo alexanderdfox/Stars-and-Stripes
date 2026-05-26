@@ -1,0 +1,28 @@
+{
+  "deck_name": "Example Custom Deck",
+  "cards": [
+    {
+      "face": "generated_png/01 - George Washington.png",
+      "name": "George Washington",
+      "slug": "01_George_Washington",
+      "rank": "A",
+      "suit": "Spades",
+      "label": "01 - George Washington",
+      "metadata": {
+        "presidentNumber": "1"
+      }
+    },
+    {
+      "face": "generated_png/16 - Abraham Lincoln.png",
+      "name": "Abraham Lincoln",
+      "rank": "K",
+      "suit": "Hearts",
+      "label": "16 - Abraham Lincoln"
+    },
+    {
+      "face": "generated_png/03 - Thomas Jefferson.png",
+      "name": "Thomas Jefferson",
+      "index": 2
+    }
+  ]
+}

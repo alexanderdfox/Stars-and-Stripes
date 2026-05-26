@@ -1,0 +1,335 @@
+#usda 1.0
+(
+    defaultPrim = "Deck"
+    doc = "U.S. Presidents playing card deck — portrait faces, Unicode emoji card backs"
+    metersPerUnit = 1
+    upAxis = "Y"
+)
+
+def Xform "Deck" (
+    kind = "assembly"
+)
+{
+    def Xform "Card_01_George_Washington" (
+        prepend references = @./cards/01_George_Washington.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_02_John_Adams" (
+        prepend references = @./cards/02_John_Adams.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_03_Thomas_Jefferson" (
+        prepend references = @./cards/03_Thomas_Jefferson.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_04_James_Madison" (
+        prepend references = @./cards/04_James_Madison.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_05_James_Monroe" (
+        prepend references = @./cards/05_James_Monroe.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_06_John_Quincy_Adams" (
+        prepend references = @./cards/06_John_Quincy_Adams.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_07_Andrew_Jackson" (
+        prepend references = @./cards/07_Andrew_Jackson.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.5144, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_08_Martin_Van_Buren" (
+        prepend references = @./cards/08_Martin_Van_Buren.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.6001, 0.0000, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_09_William_Henry_Harrison" (
+        prepend references = @./cards/09_William_Henry_Harrison.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_10_John_Tyler" (
+        prepend references = @./cards/10_John_Tyler.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_11_James_K_Polk" (
+        prepend references = @./cards/11_James_K_Polk.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_12_Zachary_Taylor" (
+        prepend references = @./cards/12_Zachary_Taylor.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_13_Millard_Fillmore" (
+        prepend references = @./cards/13_Millard_Fillmore.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_14_Franklin_Pierce" (
+        prepend references = @./cards/14_Franklin_Pierce.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_15_James_Buchanan" (
+        prepend references = @./cards/15_James_Buchanan.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.5144, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_16_Abraham_Lincoln" (
+        prepend references = @./cards/16_Abraham_Lincoln.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.6001, -0.1200, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_17_Andrew_Johnson" (
+        prepend references = @./cards/17_Andrew_Johnson.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_18_Ulysses_S_Grant" (
+        prepend references = @./cards/18_Ulysses_S_Grant.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_19_Rutherford_B_Hayes" (
+        prepend references = @./cards/19_Rutherford_B_Hayes.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_20_James_A_Garfield" (
+        prepend references = @./cards/20_James_A_Garfield.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_21_Chester_A_Arthur" (
+        prepend references = @./cards/21_Chester_A_Arthur.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_22_Grover_Cleveland" (
+        prepend references = @./cards/22_Grover_Cleveland.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_23_Benjamin_Harrison" (
+        prepend references = @./cards/23_Benjamin_Harrison.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.5144, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_25_William_McKinley" (
+        prepend references = @./cards/25_William_McKinley.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.6001, -0.2400, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_26_Theodore_Roosevelt" (
+        prepend references = @./cards/26_Theodore_Roosevelt.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_27_William_Howard_Taft" (
+        prepend references = @./cards/27_William_Howard_Taft.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_28_Woodrow_Wilson" (
+        prepend references = @./cards/28_Woodrow_Wilson.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_29_Warren_G_Harding" (
+        prepend references = @./cards/29_Warren_G_Harding.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_30_Calvin_Coolidge" (
+        prepend references = @./cards/30_Calvin_Coolidge.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_31_Herbert_Hoover" (
+        prepend references = @./cards/31_Herbert_Hoover.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_32_Franklin_D_Roosevelt" (
+        prepend references = @./cards/32_Franklin_D_Roosevelt.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.5144, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_33_Harry_S_Truman" (
+        prepend references = @./cards/33_Harry_S_Truman.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.6001, -0.3600, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_34_Dwight_D_Eisenhower" (
+        prepend references = @./cards/34_Dwight_D_Eisenhower.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_35_John_F_Kennedy" (
+        prepend references = @./cards/35_John_F_Kennedy.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_36_Lyndon_B_Johnson" (
+        prepend references = @./cards/36_Lyndon_B_Johnson.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_37_Richard_Nixon" (
+        prepend references = @./cards/37_Richard_Nixon.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_38_Gerald_Ford" (
+        prepend references = @./cards/38_Gerald_Ford.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_39_Jimmy_Carter" (
+        prepend references = @./cards/39_Jimmy_Carter.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_40_Ronald_Reagan" (
+        prepend references = @./cards/40_Ronald_Reagan.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.5144, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_41_George_H_W_Bush" (
+        prepend references = @./cards/41_George_H_W_Bush.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.6001, -0.4801, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_42_Bill_Clinton" (
+        prepend references = @./cards/42_Bill_Clinton.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0000, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_43_George_W_Bush" (
+        prepend references = @./cards/43_George_W_Bush.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.0857, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_44_Barack_Obama" (
+        prepend references = @./cards/44_Barack_Obama.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.1715, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_45_Donald_Trump" (
+        prepend references = @./cards/45_Donald_Trump.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.2572, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_46_Joe_Biden" (
+        prepend references = @./cards/46_Joe_Biden.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.3429, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+    def Xform "Card_47_Donald_Trump" (
+        prepend references = @./cards/47_Donald_Trump.usda@</Card>
+    )
+    {
+        double3 xformOp:translate = (0.4286, -0.6001, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+}

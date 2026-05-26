@@ -24,3 +24,5 @@ build/
 .vscode/
 *.swp
 *~
+
+custom_cards_usd/
