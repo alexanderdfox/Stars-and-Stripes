@@ -31,6 +31,18 @@ python3 generate_senators.py --year 1789 --force   # First Congress only
 python3 generate_senators.py --bioguide W000238 --force   # Daniel Webster
 ```
 
+## Instagram collage (by year)
+
+Chronological carousel slides (1080×1080) plus a vertical year timeline:
+
+```bash
+python3 make_senet_collage.py
+# → collage_instagram/slide-00-cover.png … slide-23.png
+# → collage_instagram/senet_timeline_by_year.png
+```
+
+Upload `slide-00-cover.png` through `slide-23.png` as an Instagram carousel. Thumbnails are cached in `portraits_thumb/`.
+
 ## Data source
 
 Biographical and service dates: [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators).  

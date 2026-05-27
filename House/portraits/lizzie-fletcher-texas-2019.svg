@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 2400"
+  width="1200" height="2400"
+  shape-rendering="geometricPrecision"
+  aria-labelledby="title desc">
+  <title id="title">Lizzie Fletcher — U.S. Representative (2019)</title>
+  <desc id="desc">Full-body portrait of Lizzie Fletcher, U.S. Representative (primary House service from 2019, Texas). Likeness informed by historical portraits and photographs. Mesh-ready layered SVG.</desc>
+  <metadata>
+    House collection v1. Coordinate space 1200×2400; inner figure scaled 1.5×2 from 800×1200 rig.
+    Layers: body, clothing, head, hair, accessories. Optimized for Blender/Unity extrusion.
+  </metadata>
+
+  <defs>
+    <linearGradient id="skin-shade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="coat-shade" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.12"/>
+    </linearGradient>
+    <pattern id="fabric-weave" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="4" height="8" fill="#000" fill-opacity="0.03"/>
+    </pattern>
+  </defs>
+  <g id="background">
+    <rect width="1200" height="2400" fill="#3cb868"/>
+  </g>
+  <g id="figure" transform="scale(1.5 2.0)">
+
+    <g id="body" fill-rule="nonzero">
+
+  <path fill="#1a2028" d="M381 684 L312 684 L334 862 L345 944 L371 944 L374 862 Z"/>
+  <path fill="#1a2028" d="M419 684 L488 684 L465 862 L455 944 L429 944 L425 862 Z"/>
+    </g>
+    <g id="clothing" fill-rule="nonzero">
+
+  <path fill="#1c1410" d="M345 944 L329 944 L323 1062 L377 1062 L371 944 Z"/>
+  <path fill="#1c1410" d="M455 944 L471 944 L477 1062 L423 1062 L429 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#1a2028" d="M379 684 L421 684 L488 686 L312 686 Z"/>
+
+  <path fill="#f5f2ea" d="M381 684 L419 684 Q483 620 489 528 Q400 512 311 528 Q317 620 381 684 Z"/>
+
+  <path fill="#f5f2ea" d="M358 472 L442 472 L434 514 Q400 524 362 514 Z"/>
+  <path fill="#f5f2ea" d="M368 514 Q400 508 432 514 L417 684 Q400 692 383 684 Z"/>
+
+  <path fill="#2c3444" d="M267 528 Q249 638 259 778 L309 778 Q297 638 317 528 Z"/>
+  <path fill="#2c3444" d="M533 528 Q551 638 541 778 L491 778 Q503 638 483 528 Z"/>
+  <path fill="#f5f2ea" d="M261 668 Q257 728 259 798 L305 798 Q301 728 307 668 Z"/>
+  <path fill="#f5f2ea" d="M539 668 Q543 728 541 798 L495 798 Q499 728 493 668 Z"/>
+  <path fill="#7a4818" d="M303 768 L207 785 L213 822 L307 808 Z"/>
+  <path fill="#7a4818" d="M497 768 L593 785 L587 822 L493 808 Z"/>
+  <ellipse transform="rotate(-35 235 808)" fill="#7a4818" ry="21" rx="27" cy="808" cx="235"/>
+  <ellipse transform="rotate(45 565 798)" fill="#7a4818" ry="20" rx="26" cy="798" cx="565"/>
+
+  <path fill="#2c3444" d="M317 528 Q312 628 312 684 L381 684 L419 684 L488 684 Q483 628 483 528 Z"/>
+  <path fill="#2c3444" d="M288 498 Q264 625 294 755 Q336 838 334 690 Q400 564 466 690 Q464 838 524 755 Q536 625 512 498 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#c41e3a" d="M384 496 Q400 646 400 736 Q400 646 416 496 Z"/>
+  <path fill="#b01830" d="M376 492 L424 492 L420 502 L380 502 Z"/>
+    </g>
+    <g id="head" fill-rule="nonzero">
+<ellipse fill="#8d5524" ry="76" rx="74" cy="365" cx="400"/>
+  
+  <path fill="#8d5524" d="M372 423 Q370 442 388 462 Q400 468 412 462 Q430 442 428 423 Q400 420 372 423 Z"/>
+  <path fill="#faf8f4" d="M368 460 Q400 466 432 460 L430 466 Q400 470 370 466 Z"/>
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M355 325 Q375 315 390 320 Q388 326 368 324 Q356 326 355 325 Z"/>
+  <path fill="#2c2c2c" d="M410 320 Q425 315 445 325 Q443 331 423 328 Q412 326 410 320 Z"/>
+  <path fill="#a07050" d="M398 355 Q400 385 396 392 Q392 382 394 362 Q396 355 398 355 Z"/>
+  <path fill="#6b4028" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+    </g>
+    <g id="hair" fill-rule="nonzero">
+<path fill="#e8e4dc" d="M330 404 Q400 422 470 404 L468 432 Q400 442 332 432 Z"/>
+  <ellipse fill="#8d5524" ry="16" rx="41" cy="416" cx="400"/>
+  
+  <path fill="#f8f6f0" d="M335 290 Q280 310 265 380 Q280 410 355 415 Z"/>
+  <path fill="#f8f6f0" d="M465 290 Q520 310 535 380 Q520 410 445 415 Z"/>
+  <ellipse fill="#e8e4dc" ry="42" rx="92" cy="248" cx="400"/>
+  <path fill="#1e1e1e" d="M305 245 Q260 210 290 170 Q400 145 510 170 Q540 210 495 245 Z"/>
+  
+  <path fill="#e8e4dc" d="M330 380 Q338 448 368 470 Q400 478 432 470 Q462 442 470 380 Z"/>
+  <path fill="#e8e4dc" d="M330 282 Q278 302 272 360 Q290 390 330 380 Z"/>
+  <path fill="#e8e4dc" d="M470 282 Q522 302 528 360 Q510 390 470 380 Z"/>
+    </g>
+    <g id="accessories" fill-rule="nonzero">
+
+    </g>
+  </g>
+  <g transform="scale(1.5 2.0)">
+<g id="outlines" fill="none" stroke="#0d0d0d" stroke-width="2.4" stroke-linejoin="round" opacity="0.85">
+
+  <path fill="#1a2028" d="M381 684 L312 684 L334 862 L345 944 L371 944 L374 862 Z"/>
+  <path fill="#1a2028" d="M419 684 L488 684 L465 862 L455 944 L429 944 L425 862 Z"/>
+
+  <path fill="#1c1410" d="M345 944 L329 944 L323 1062 L377 1062 L371 944 Z"/>
+  <path fill="#1c1410" d="M455 944 L471 944 L477 1062 L423 1062 L429 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#1a2028" d="M379 684 L421 684 L488 686 L312 686 Z"/>
+
+  <path fill="#f5f2ea" d="M381 684 L419 684 Q483 620 489 528 Q400 512 311 528 Q317 620 381 684 Z"/>
+
+  <path fill="#f5f2ea" d="M358 472 L442 472 L434 514 Q400 524 362 514 Z"/>
+  <path fill="#f5f2ea" d="M368 514 Q400 508 432 514 L417 684 Q400 692 383 684 Z"/>
+
+  <path fill="#2c3444" d="M267 528 Q249 638 259 778 L309 778 Q297 638 317 528 Z"/>
+  <path fill="#2c3444" d="M533 528 Q551 638 541 778 L491 778 Q503 638 483 528 Z"/>
+  <path fill="#f5f2ea" d="M261 668 Q257 728 259 798 L305 798 Q301 728 307 668 Z"/>
+  <path fill="#f5f2ea" d="M539 668 Q543 728 541 798 L495 798 Q499 728 493 668 Z"/>
+  <path fill="#7a4818" d="M303 768 L207 785 L213 822 L307 808 Z"/>
+  <path fill="#7a4818" d="M497 768 L593 785 L587 822 L493 808 Z"/>
+  <ellipse transform="rotate(-35 235 808)" fill="#7a4818" ry="21" rx="27" cy="808" cx="235"/>
+  <ellipse transform="rotate(45 565 798)" fill="#7a4818" ry="20" rx="26" cy="798" cx="565"/>
+
+  <path fill="#2c3444" d="M317 528 Q312 628 312 684 L381 684 L419 684 L488 684 Q483 628 483 528 Z"/>
+  <path fill="#2c3444" d="M288 498 Q264 625 294 755 Q336 838 334 690 Q400 564 466 690 Q464 838 524 755 Q536 625 512 498 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#c41e3a" d="M384 496 Q400 646 400 736 Q400 646 416 496 Z"/>
+  <path fill="#b01830" d="M376 492 L424 492 L420 502 L380 502 Z"/>
+<ellipse fill="#8d5524" ry="76" rx="74" cy="365" cx="400"/>
+  
+  <path fill="#8d5524" d="M372 423 Q370 442 388 462 Q400 468 412 462 Q430 442 428 423 Q400 420 372 423 Z"/>
+  <path fill="#faf8f4" d="M368 460 Q400 466 432 460 L430 466 Q400 470 370 466 Z"/>
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M355 325 Q375 315 390 320 Q388 326 368 324 Q356 326 355 325 Z"/>
+  <path fill="#2c2c2c" d="M410 320 Q425 315 445 325 Q443 331 423 328 Q412 326 410 320 Z"/>
+  <path fill="#a07050" d="M398 355 Q400 385 396 392 Q392 382 394 362 Q396 355 398 355 Z"/>
+  <path fill="#6b4028" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+<path fill="#e8e4dc" d="M330 404 Q400 422 470 404 L468 432 Q400 442 332 432 Z"/>
+  <ellipse fill="#8d5524" ry="16" rx="41" cy="416" cx="400"/>
+  
+  <path fill="#f8f6f0" d="M335 290 Q280 310 265 380 Q280 410 355 415 Z"/>
+  <path fill="#f8f6f0" d="M465 290 Q520 310 535 380 Q520 410 445 415 Z"/>
+  <ellipse fill="#e8e4dc" ry="42" rx="92" cy="248" cx="400"/>
+  <path fill="#1e1e1e" d="M305 245 Q260 210 290 170 Q400 145 510 170 Q540 210 495 245 Z"/>
+  
+  <path fill="#e8e4dc" d="M330 380 Q338 448 368 470 Q400 478 432 470 Q462 442 470 380 Z"/>
+  <path fill="#e8e4dc" d="M330 282 Q278 302 272 360 Q290 390 330 380 Z"/>
+  <path fill="#e8e4dc" d="M470 282 Q522 302 528 360 Q510 390 470 380 Z"/>
+  </g>
+  </g>
+</svg>

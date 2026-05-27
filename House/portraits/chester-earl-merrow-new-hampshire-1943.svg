@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 2400"
+  width="1200" height="2400"
+  shape-rendering="geometricPrecision"
+  aria-labelledby="title desc">
+  <title id="title">Chester Earl Merrow — U.S. Representative (1943)</title>
+  <desc id="desc">Full-body portrait of Chester Earl Merrow, U.S. Representative (primary House service from 1943, New Hampshire). Likeness informed by historical portraits and photographs. Mesh-ready layered SVG.</desc>
+  <metadata>
+    House collection v1. Coordinate space 1200×2400; inner figure scaled 1.5×2 from 800×1200 rig.
+    Layers: body, clothing, head, hair, accessories. Optimized for Blender/Unity extrusion.
+  </metadata>
+
+  <defs>
+    <linearGradient id="skin-shade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="coat-shade" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.12"/>
+    </linearGradient>
+    <pattern id="fabric-weave" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="4" height="8" fill="#000" fill-opacity="0.03"/>
+    </pattern>
+  </defs>
+  <g id="background">
+    <rect width="1200" height="2400" fill="#3cb868"/>
+  </g>
+  <g id="figure" transform="scale(1.5 2.0)">
+
+    <g id="body" fill-rule="nonzero">
+
+  <path fill="#141e32" d="M378 684 L318 684 L338 862 L348 944 L368 944 L371 862 Z"/>
+  <path fill="#141e32" d="M422 684 L482 684 L461 862 L452 944 L432 944 L428 862 Z"/>
+    </g>
+    <g id="clothing" fill-rule="nonzero">
+
+  <path fill="#1c1410" d="M348 944 L332 944 L326 1062 L374 1062 L368 944 Z"/>
+  <path fill="#1c1410" d="M452 944 L468 944 L474 1062 L426 1062 L432 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#141e32" d="M376 684 L424 684 L482 686 L318 686 Z"/>
+
+  <path fill="#f5f2ea" d="M378 684 L422 684 Q474 620 480 528 Q400 512 320 528 Q326 620 378 684 Z"/>
+
+  <path fill="#f5f2ea" d="M362 472 L438 472 L434 514 Q400 524 366 514 Z"/>
+  <path fill="#f5f2ea" d="M372 514 Q400 508 428 514 L420 684 Q400 692 380 684 Z"/>
+
+  <path fill="#1e2d4a" d="M276 528 Q258 638 268 778 L318 778 Q306 638 326 528 Z"/>
+  <path fill="#1e2d4a" d="M524 528 Q542 638 532 778 L482 778 Q494 638 474 528 Z"/>
+  <path fill="#f5f2ea" d="M270 668 Q266 728 268 798 L314 798 Q310 728 316 668 Z"/>
+  <path fill="#f5f2ea" d="M530 668 Q534 728 532 798 L486 798 Q490 728 484 668 Z"/>
+  <path fill="#f0d8b8" d="M312 768 L207 785 L213 822 L316 808 Z"/>
+  <path fill="#f0d8b8" d="M488 768 L593 785 L587 822 L484 808 Z"/>
+  <ellipse transform="rotate(-35 235 808)" fill="#f0d8b8" ry="21" rx="27" cy="808" cx="235"/>
+  <ellipse transform="rotate(45 565 798)" fill="#f0d8b8" ry="20" rx="26" cy="798" cx="565"/>
+
+  <path fill="#1e2d4a" d="M326 528 Q318 632 318 684 L378 684 L422 684 L482 684 Q474 632 474 528 Z"/>
+  <path fill="#1e2d4a" d="M304 502 Q280 632 292 768 Q334 852 350 696 Q400 566 450 696 Q466 852 508 768 Q520 632 496 502 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#c41e3a" d="M384 496 Q400 646 400 736 Q400 646 416 496 Z"/>
+  <path fill="#b01830" d="M376 492 L424 492 L420 502 L380 502 Z"/>
+    </g>
+    <g id="head" fill-rule="nonzero">
+<ellipse fill="#f8e4c8" ry="78" rx="68" cy="360" cx="400"/>
+  
+  <path fill="#f8e4c8" d="M375 420 Q373 441 388 462 Q400 468 412 462 Q427 441 425 420 Q400 417 375 420 Z"/>
+  <path fill="#faf8f4" d="M371 460 Q400 466 429 460 L427 466 Q400 470 373 466 Z"/>
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M355 325 Q375 315 390 320 Q388 326 368 324 Q356 326 355 325 Z"/>
+  <path fill="#2c2c2c" d="M410 320 Q425 315 445 325 Q443 331 423 328 Q412 326 410 320 Z"/>
+  <path fill="#e8c8a8" d="M400 352 Q408 378 402 392 Q398 388 396 368 Q398 358 400 352 Z"/>
+  <path fill="#c88c70" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+    </g>
+    <g id="hair" fill-rule="nonzero">
+<path fill="#e8e4dc" d="M330 400 Q400 418 470 400 L468 428 Q400 438 332 428 Z"/>
+  <ellipse fill="#f8e4c8" ry="17" rx="42" cy="412" cx="400"/>
+  
+  <path fill="#e8e4dc" d="M332 298 Q288 318 282 368 Q298 395 348 398 Z"/>
+  <path fill="#e8e4dc" d="M468 298 Q512 318 518 368 Q502 395 452 398 Z"/>
+  <ellipse fill="#e8e4dc" ry="22" rx="72" cy="262" cx="400"/>
+    </g>
+    <g id="accessories" fill-rule="nonzero">
+
+    </g>
+  </g>
+  <g transform="scale(1.5 2.0)">
+<g id="outlines" fill="none" stroke="#0d0d0d" stroke-width="2.4" stroke-linejoin="round" opacity="0.85">
+
+  <path fill="#141e32" d="M378 684 L318 684 L338 862 L348 944 L368 944 L371 862 Z"/>
+  <path fill="#141e32" d="M422 684 L482 684 L461 862 L452 944 L432 944 L428 862 Z"/>
+
+  <path fill="#1c1410" d="M348 944 L332 944 L326 1062 L374 1062 L368 944 Z"/>
+  <path fill="#1c1410" d="M452 944 L468 944 L474 1062 L426 1062 L432 944 Z"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="358"/>
+  <ellipse fill="#241c18" ry="5" rx="26" cy="1046" cx="442"/>
+
+  <path fill="#141e32" d="M376 684 L424 684 L482 686 L318 686 Z"/>
+
+  <path fill="#f5f2ea" d="M378 684 L422 684 Q474 620 480 528 Q400 512 320 528 Q326 620 378 684 Z"/>
+
+  <path fill="#f5f2ea" d="M362 472 L438 472 L434 514 Q400 524 366 514 Z"/>
+  <path fill="#f5f2ea" d="M372 514 Q400 508 428 514 L420 684 Q400 692 380 684 Z"/>
+
+  <path fill="#1e2d4a" d="M276 528 Q258 638 268 778 L318 778 Q306 638 326 528 Z"/>
+  <path fill="#1e2d4a" d="M524 528 Q542 638 532 778 L482 778 Q494 638 474 528 Z"/>
+  <path fill="#f5f2ea" d="M270 668 Q266 728 268 798 L314 798 Q310 728 316 668 Z"/>
+  <path fill="#f5f2ea" d="M530 668 Q534 728 532 798 L486 798 Q490 728 484 668 Z"/>
+  <path fill="#f0d8b8" d="M312 768 L207 785 L213 822 L316 808 Z"/>
+  <path fill="#f0d8b8" d="M488 768 L593 785 L587 822 L484 808 Z"/>
+  <ellipse transform="rotate(-35 235 808)" fill="#f0d8b8" ry="21" rx="27" cy="808" cx="235"/>
+  <ellipse transform="rotate(45 565 798)" fill="#f0d8b8" ry="20" rx="26" cy="798" cx="565"/>
+
+  <path fill="#1e2d4a" d="M326 528 Q318 632 318 684 L378 684 L422 684 L482 684 Q474 632 474 528 Z"/>
+  <path fill="#1e2d4a" d="M304 502 Q280 632 292 768 Q334 852 350 696 Q400 566 450 696 Q466 852 508 768 Q520 632 496 502 Z"/>
+<path fill="#faf8f4" d="M362 452 Q400 440 438 452 L434 472 Q400 482 366 472 Z"/>
+  <path fill="#c41e3a" d="M384 496 Q400 646 400 736 Q400 646 416 496 Z"/>
+  <path fill="#b01830" d="M376 492 L424 492 L420 502 L380 502 Z"/>
+<ellipse fill="#f8e4c8" ry="78" rx="68" cy="360" cx="400"/>
+  
+  <path fill="#f8e4c8" d="M375 420 Q373 441 388 462 Q400 468 412 462 Q427 441 425 420 Q400 417 375 420 Z"/>
+  <path fill="#faf8f4" d="M371 460 Q400 466 429 460 L427 466 Q400 470 373 466 Z"/>
+  
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="372"/>
+  <ellipse fill="#1a2a4a" ry="13" rx="8" cy="348" cx="428"/>
+  
+  <path fill="#2c2c2c" d="M355 325 Q375 315 390 320 Q388 326 368 324 Q356 326 355 325 Z"/>
+  <path fill="#2c2c2c" d="M410 320 Q425 315 445 325 Q443 331 423 328 Q412 326 410 320 Z"/>
+  <path fill="#e8c8a8" d="M400 352 Q408 378 402 392 Q398 388 396 368 Q398 358 400 352 Z"/>
+  <path fill="#c88c70" d="M375 408 Q400 418 425 408 Q420 412 400 414 Q380 412 375 408 Z"/>
+<path fill="#e8e4dc" d="M330 400 Q400 418 470 400 L468 428 Q400 438 332 428 Z"/>
+  <ellipse fill="#f8e4c8" ry="17" rx="42" cy="412" cx="400"/>
+  
+  <path fill="#e8e4dc" d="M332 298 Q288 318 282 368 Q298 395 348 398 Z"/>
+  <path fill="#e8e4dc" d="M468 298 Q512 318 518 368 Q502 395 452 398 Z"/>
+  <ellipse fill="#e8e4dc" ry="22" rx="72" cy="262" cx="400"/>
+  </g>
+  </g>
+</svg>
